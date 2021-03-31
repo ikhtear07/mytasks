@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56741" started-at="2021-03-31T12:32:43Z" finished-at="2021-03-31T12:33:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56741" started-at="2021-03-31T12:32:43Z" finished-at="2021-03-31T12:33:39Z">
+      <class name="com.MoneyGamingSM.RegistrationProcess">
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:com.MoneyGamingSM.RegistrationProcess@4cdbe50f]" name="registrationTest" duration-ms="56719" started-at="2021-03-31T08:32:43Z" finished-at="2021-03-31T08:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- com.MoneyGamingSM.RegistrationProcess -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
